@@ -1,0 +1,10 @@
+#!/bin/sh -e
+
+export DESTDIR="$1"
+
+unzip master.zip
+cd w3m-master
+
+./configure
+make
+make install
