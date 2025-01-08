@@ -13,6 +13,12 @@ Be aware that I might not be that much active to maintain this repo. Clone it an
     - firefox-bin
         - Prebuilt for Alpine Linux
         - Faster and easier way to install Firefox on KISS
+    - librewolf-bin
+        - Prebuilt for Alpine Linux
+        - Faster and easier way to install Librewolf on KISS
+    - fastfetch
+        - [Source](https://github.com/fastfetch-cli/fastfetch)
+        - Since neofetch is now archived, this is the future.
 - libs
     - xdotool
         - [Source](https://github.com/jordansissel/xdotool)
