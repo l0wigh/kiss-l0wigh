@@ -8,7 +8,7 @@ Be aware that I might not be that much active to maintain this repo. Clone it an
 
 - tools
     - w3m
-        - [source](https://github.com/tats/w3m)
+        - [Source](https://github.com/tats/w3m)
         - Just a really simple terminal web browser. Really usefull when Firefox is still compiling
     - firefox-bin
         - Prebuilt for Alpine Linux
