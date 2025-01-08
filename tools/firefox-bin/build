@@ -1,0 +1,6 @@
+#!/bin/sh -e
+
+export DESTDIR="$1"
+
+tar xf firefox-134.0-r0.apk
+cp -r ./usr/* /usr/

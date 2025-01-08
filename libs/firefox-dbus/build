@@ -1,0 +1,6 @@
+#!/bin/sh -e
+
+export DESTDIR="$1"
+
+tar xf dbus-libs-1.16.0-r0.apk
+cp -r ./usr/* /usr/
